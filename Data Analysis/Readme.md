@@ -33,4 +33,5 @@ Dataset: data/epa-sea-level.csv
 Result: 
 ![Screenshot](Plots/p5_linearreg.png)
 
-[My certifications](https://www.freecodecamp.org/certification/supria6/data-analysis-with-python-v7)
+Upon completion, you are eligible to get the certificate as below:  
+[My certifications](Plots/da_python.png)
